@@ -11,3 +11,6 @@ Product Owners however work with customers in order to understand what to build.
 c) The first meeting is to review the backlogs of the product and decide which parts are done by who in the team. It outlines how the task will be done.
 The second meeting is a report on how every team member is doing on their task in order to stay synchronized within the team. They make goals for the day as well.
 The third meeting is where everything is finished and complete at least for the first part. Feedback is given at this time.
+
+d) Epic is for the big picture changes. It can be very vague or it can be a very large project that has smaller parts to them. Those smaller parts are the stories. These have more detail and can be done in smaller increments.
+ Bugs are made when there are issues that have been found that is blocking a story or whatever task, so it wouldn't be able to continue devlopement. Tasks are even smaller than stories. They are as specific as possible and they can be done quicker than everything else except bug since they are similar.
