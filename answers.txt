@@ -7,3 +7,7 @@ The end product may also have difference in quality due to different members wor
 
 b) Scrum Masters are very team-oriented, so they put their team before the product. They maximize teamwork-effectiveness and work with the development team.
 Product Owners however work with customers in order to understand what to build. They get things done even with backlogs of the product.
+
+c) The first meeting is to review the backlogs of the product and decide which parts are done by who in the team. It outlines how the task will be done.
+The second meeting is a report on how every team member is doing on their task in order to stay synchronized within the team. They make goals for the day as well.
+The third meeting is where everything is finished and complete at least for the first part. Feedback is given at this time.
