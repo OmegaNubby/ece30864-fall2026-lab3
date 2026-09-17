@@ -1,5 +1,9 @@
-Agile development is very customer based, so any requirement or issue is focused on individually.
+a) Agile development is very customer based, so any requirement or issue is focused on individually.
 Another benefit is that it allows for the team to decide on what they want to work on themselves and split work among each other.
 
 The issue would come time. Because the team is allowed to work on whatever they want whenever, then sometimes a task can stay undone for very long periods of time.
 The end product may also have difference in quality due to different members working on different tasks.
+
+
+b) Scrum Masters are very team-oriented, so they put their team before the product. They maximize teamwork-effectiveness and work with the development team.
+Product Owners however work with customers in order to understand what to build. They get things done even with backlogs of the product.
